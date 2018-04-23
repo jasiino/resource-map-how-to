@@ -14,8 +14,8 @@ A geo-locator app can be used to search for and filter through programs and serv
  ![Image of Settings](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings.png)
  ![Image of Settings2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings2.png)
  
- Paste the index.html code into your own GitHub repo.**
-**<p> 7. Commit the changes on the bottom of the page.**
+**<p>Paste the index.html code into your own GitHub repo.**
+**<p> 8. Commit the changes on the bottom of the page.**
  
 ![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Commit.png)
 **<p> 8. Create an Airtable account [here](https://airtable.com).**
