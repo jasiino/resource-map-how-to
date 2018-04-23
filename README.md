@@ -9,7 +9,12 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 5. Click fork on the top right hand corner.**
  
  ![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/1.png)
-**<p> 6. Paste the index.html code into your own GitHub repo.**
+**<p> 6. Go to settings. Scroll down to GitHub Pages and turn on master branch.**
+ 
+ ![Image of Settings](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings.png)
+ ![Image of Settings2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings2.png)
+ 
+ Paste the index.html code into your own GitHub repo.**
 **<p> 7. Commit the changes on the bottom of the page.**
  
 ![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Commit.png)
