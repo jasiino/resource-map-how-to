@@ -3,9 +3,9 @@ Resource-map how-to instructions
 # How To Create Your Own Geo-Locator App
 A geo-locator app can be used to search for and filter through programs and services in your area. Here is a [link](https://www.youtube.com/watch?v=qbPf9VRP6eU) to a presentation explaining what a geo-locator app does and why it can be useful. Here are the steps to create your own geo-locator website application:
 **<p> 1. Head to https://github.com/ and create your own account.**
-**<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map.**
+**<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map-how-to.**
 **<p> 3. Click on the index.html file.**
-**<p> 4. Copy the all the code from index.html.**
+**<p> 4. Copy the all the code from index.html. This is blank template where you will insert all the data needed.**
 **<p> 5. Click fork on the top right hand corner.**
  
  ![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/1.png)
@@ -14,7 +14,9 @@ A geo-locator app can be used to search for and filter through programs and serv
  ![Image of Settings](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings.png)
  ![Image of Settings2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings2.png)
  
-**<p>Paste the index.html code into your own GitHub repo.**
+**<p> 7. Create a new file and paste the index.html code and save as index.html, delete the template index.html version.**
+
+![Image of Create](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Create.png)
 **<p> 8. Commit the changes on the bottom of the page.**
  
 ![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Commit.png)
