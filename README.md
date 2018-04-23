@@ -1,6 +1,6 @@
 # resource-maphowto
 Resource-map how-to instructions
-# How-To Create Your Own Geo-Locator App
+# How To Create Your Own Geo-Locator App
 Here are the steps to create your own geo-locator website application:
 **<p> 1. Head to https://github.com/ and create your own account.**
 **<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map.**
