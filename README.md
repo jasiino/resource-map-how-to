@@ -43,7 +43,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 ![Image of Airtable](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Airtable.png)
 **<p> 17. Under the Category heading, create your own set of categories (i.e. community outreach, job opportunities/training, health services etc...).**
 **<p> 18. Conduct research on the programs you want to include. Begin inputting your own data into the Airtable.**
-**<p> 19. Turn to the code. Update line 43 to create your own title.**
+**<p> 19. Turn to the index.html file. Click the pen button to edit. Update line 43 to create your own title.**
 **<p> 16. Update line 47 to include your own description.**
 
 ![Image Line 43 47](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2043%2047.png)
