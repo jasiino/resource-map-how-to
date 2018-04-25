@@ -14,7 +14,7 @@ A geo-locator app can be used to search for and filter through programs and serv
  ![Image of Settings](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings.png)
  ![Image of Settings2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings2.png)
  
-**<p> 7. Create a new file and paste the index.html code and save as index.html, delete the template index.html version.**
+**<p> 7. Paste the copied index.html code in the index.html file.**
 
 ![Image of Create](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Create.png)
 **<p> 8. Commit the changes on the bottom of the page.**
