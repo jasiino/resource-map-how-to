@@ -43,17 +43,17 @@ A geo-locator app can be used to search for and filter through programs and serv
 ![Image of Airtable](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Airtable.png)
 **<p> 17. Under the Category heading, create your own set of categories (i.e. community outreach, job opportunities/training, health services etc...).**
 **<p> 18. Conduct research on the programs you want to include. Begin inputting your own data into the Airtable.**
-**<p> 19. Turn to the index.html file. Click the pen button to edit. Update line 43 to create your own title.**
-**<p> 16. Update line 47 to include your own description.**
+**<p> 19. Turn to the index.html file. Click the pen button to edit. Update line 34 to create your own title.**
+**<p> 16. Update line 38 to include your own description.**
 
 ![Image Line 43 47](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2043%2047.png)
-**<p> 17. Update line 55 to describe age filter.**
+**<p> 17. Update line 46 to describe age filter.**
 
 ![Image Line 55](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2055.png)
-**<p> 18. Now turn to line 82 to update your own About page.**
+**<p> 18. Now turn to line 73 to update your own About page.**
 
 ![Image Line 82](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2082.png)
-**<p> 19. Update line 156 to input your own Category names.** 
+**<p> 19. Update line 142 to input your own Category names.** 
 
 ![Image Line 156](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20156.png)
 
@@ -64,7 +64,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 ![Image to Account 2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Account%202.png)  
 
 ![Image to API Key](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/API%20Key.png)
-**<p> 21. Copy and paste your API key in line 155 of the code.**
+**<p> 21. Copy and paste your API key in line 141 of the code.**
  
 ![Image Line 155](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20155.png)
 **<p> 22. Find your API documentation.**
@@ -76,7 +76,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 ![Image of API Documentation 3](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/API%20Doumentation%203.png)
 
 **<p> 23. You can follow the steps above or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729) to find your API Key and API Documentation.**
-**<p> 24. Copy and paste your API documentation in line 154 of the code.**
+**<p> 24. Copy and paste your API documentation in line 140 of the code.**
 
 ![Image Line 154](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20154.png)
 
@@ -84,6 +84,6 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image Line Google API 1](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Google%20API%201.png)
 ![Image Line Google API 2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Google%20API%202.png)
-**<p> 26. Look at line 150 of the code. Insert your own Google API key.(https://developers.google.com/maps/documentation/javascript/get-api-key)**
+**<p> 26. Look at line 136 of the code. Insert your own Google API key.(https://developers.google.com/maps/documentation/javascript/get-api-key)**
 
 ![Image of Google](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Google.png)
