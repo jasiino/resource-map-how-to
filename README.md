@@ -5,21 +5,27 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 1. Head to https://github.com/ and create your own account.**
 **<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map-how-to.**
 **<p> 3. Click on the index.html file.**
+**<p> 4. Click the pen button to edit the code.**
+ 
+![Image of pen](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/pen.png)
 **<p> 4. Copy the all the code from index.html. This is blank template where you will insert all the data needed.**
 **<p> 5. Click fork on the top right hand corner.**
  
  ![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/1.png)
+**<p> 8. Click the index.html file. Click the pen button to edit the code.**
+ 
+**<p> 9. Delete all existing code then paste the copied index.html code.**
+**<p> 8. Commit the changes on the bottom of the page.**
+ 
+![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Commit.png)
 **<p> 6. Go to settings. Scroll down to GitHub Pages and turn on master branch.**
  
  ![Image of Settings](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings.png)
  ![Image of Settings2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings2.png)
  
-**<p> 7. Paste the copied index.html code in the index.html file.**
+**<p> 7. Go back to the repository.
 
-![Image of Create](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Create.png)
-**<p> 8. Commit the changes on the bottom of the page.**
- 
-![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Commit.png)
+![Image of Repo](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Repo.png)
 **<p> 8. Create an Airtable account [here](https://airtable.com).**
  
 ![Image of Airtable sign in](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Airtable%20sign%20in.png)
