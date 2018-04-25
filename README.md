@@ -53,9 +53,13 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 22. Now turn to line 73 to update your own About page.**
 
 ![Image Line 82](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2082.png)
-**<p> 23. Update line 142 to input your own Category names.** 
+**<p> 23. Update line 142 to input your own Category names. Tag the categories as you want to refer to them throughout the code (i.e. "Alternative" "Risk")** 
 
 ![Image Line 156](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20156.png)
+
+**<p> 24. Put the tagged names into line 209. 
+
+![Image Line 209](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20209.png)
 
 **<p> 24. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729).** 
  
