@@ -57,7 +57,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image Line 156](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20156.png)
 
-**<p> 24. Put the tagged names into line 209. 
+**<p> 24. Put the tagged names into line 209.**
 
 ![Image Line 209](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20209.png)
 
