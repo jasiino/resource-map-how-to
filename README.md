@@ -88,6 +88,6 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image of Google](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Google.png)
 
-**<p> 31. Go to settings again, scroll down to GitHub pages to find your own url link.
+**<p> 31. Go to settings again, scroll down to GitHub pages to find your own url link.**
 
-[Image of link](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/link.png)
+![Image of link](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/link.png)
