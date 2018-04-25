@@ -12,7 +12,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 6. Click fork on the top right hand corner.**
  
  ![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/1.png)
-**<p> 7. Click the index.html file. Click the pen button to edit the code.**
+**<p> 7. Chose your profile to save under. Click the index.html file. Click the pen button to edit the code.**
  
 **<p> 8. Delete all existing code then paste the copied index.html code.**
 **<p> 9. Commit the changes on the bottom of the page.**
