@@ -158,7 +158,6 @@
 
 	function load_api_data(target,mode=3,id='') {
 		work = 1;
-		//https://api.airtable.com/v0/appHUknSmoIogemD5/Boston/?filterByFormula=AND(20<={Maximum Age},20>={Minimum Age},OR((FIND("Community Outreach",{Category})),(FIND("Counseling",{Category}))))
 		if (mode == 0) {
 			apicall = "https://api.airtable.com/v0/"+app_id+"/Locations/?sort[0][field]=Name&sort[0][direction]=asc";
 		} else if (mode == 1) {
