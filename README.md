@@ -7,21 +7,21 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 3. Click on the index.html file.**
 **<p> 4. Click the pen button to edit the code.**
  
-![Image of pen](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/pen.png)
+![Image of pen](http://suffolklitlab.org/resource-map/HowTo%20Images/pen.png)
 **<p> 5. Copy the all the code from index.html. This is blank template where you will insert all the data needed.**
 **<p> 6. Click fork on the top right hand corner.**
  
- ![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/1.png)
+ ![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/1.png)
 **<p> 7. Chose your profile to save under. Click the index.html file. Click the pen button to edit the code.**
  
 **<p> 8. Delete all existing code then paste the copied index.html code.**
 **<p> 9. Commit the changes on the bottom of the page.**
  
-![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Commit.png)
+![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/Commit.png)
 **<p> 10. Go to settings. Scroll down to GitHub Pages and turn on master branch.**
  
- ![Image of Settings](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings.png)
- ![Image of Settings2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Settings2.png)
+ ![Image of Settings](http://suffolklitlab.org/resource-map/HowTo%20Images/Settings.png)
+ ![Image of Settings2](http://suffolklitlab.org/resource-map/HowTo%20Images/Settings2.png)
  
 **<p> 11. Change the name to what you would like as this is how it will show up in the URL. Go back to the repository.**
 
