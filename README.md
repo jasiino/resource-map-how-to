@@ -44,23 +44,24 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 17. Under the Category heading, create your own set of categories (i.e. community outreach, job opportunities/training, health services etc...).**
 **<p> 18. Conduct research on the programs you want to include. Begin inputting your own data into the Airtable.**
 **<p> 19. Turn to the index.html file. Click the pen button to edit. Update lines 7 & 34 to create your own title.**
+ 
+![Image of 7 34]
 **<p> 20. Update line 38 to include your own description.**
 
-![Image Line 43 47](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2043%2047.png)
+![Image of 38]
 **<p> 21. Update line 46 to describe age filter.**
 
-![Image Line 55](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2055.png)
+![Image of 46]
 **<p> 22. Now turn to line 73 to update your own About page.**
 
-![Image Line 82](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%2082.png)
+![Image of 73]
 **<p> 23. Update line 142 to input your own Category names. Tag the categories as you want to refer to them throughout the code (i.e. "Alternative" "Risk")** 
 
-![Image Line 156](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20156.png)
+
 
 **<p> 24. Put the tagged names into line 208.**
 
-![Image Line 209](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20209.png)
-
+![Image of 208]
 **<p> 24. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729).** 
  
 ![Image to Account](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Account.png)
@@ -70,7 +71,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 ![Image to API Key](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/API%20Key.png)
 **<p> 25. Copy and paste your API key in line 141 of the code.**
  
-![Image Line 155](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20155.png)
+!{Image of 141]
 **<p> 26. Find your API documentation.**
  
 ![Image of API Documenation](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/API%20Documentation.png)
@@ -82,7 +83,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 27. You can follow the steps above or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729) to find your API Key and API Documentation.**
 **<p> 28. Copy and paste your API documentation in line 140 of the code.**
 
-![Image Line 154](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Line%20154.png)
+![Image of 140]
 
 **<p> 29. Find your Google Maps API. To find your Google Maps API go [here](https://developers.google.com/maps/documentation/javascript/get-api-key?refresh=1) and follow the steps below. You will likely have to sign into Google using a gmail account.**
 
@@ -90,7 +91,6 @@ A geo-locator app can be used to search for and filter through programs and serv
 ![Image Line Google API 2](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Google%20API%202.png)
 **<p> 30. Look at line 136 of the code. Insert your own Google API key.**
 
-![Image of Google](http://suffolklitlab.org/resource-map/HowTo%20Images/HowTo%20Images/Google.png)
 
 **<p> 31. Go to settings again, scroll down to GitHub pages to find your own url link.**
 
