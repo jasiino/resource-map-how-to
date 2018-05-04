@@ -12,9 +12,9 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 6. Click fork on the top right hand corner. </p>**
  
  ![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/1.png)
-**<p> 7. Chose your profile to save under. Click the index.html file. Click the pen button to edit the code. </p>**
+**<p> 7. Choose your profile to save under. Click the index.html file. Click the pen button to edit the code. </p>**
  
-**<p> 8. Delete all existing code then paste the copied index.html code. </p>**
+**<p> 8. In the index.html file, paste the copied code. </p>**
 **<p> 9. Commit the changes on the bottom of the page. </p>**
  
 ![Image of Commit](http://suffolklitlab.org/resource-map/HowTo%20Images/Commit.png)
@@ -46,7 +46,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 19. Turn to the index.html file. Click the pen button to edit. Update lines 7 & 34 to create your own title. </p>**
  
 ![Image of 7 34](http://suffolklitlab.org/resource-map/HowTo%20Images/7%2034.png)
-**<p> 20. Update line 38 to include your own description. </p>**
+**<p> 20. Update line 38 to include your own description (i.e. "Use the following selections to find juvenile social, community based programs & services in and around Boston").</p>**
 
 ![Image of 38](http://suffolklitlab.org/resource-map/HowTo%20Images/38.png)
 **<p> 21. Update line 46 to describe age filter. </p>**
