@@ -1,8 +1,8 @@
 # How To Create Your Own Geo-Locator App
 A geo-locator app can be used to search for and filter through programs and services in your area. 
 
-[![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/video.png)](https://www.youtube.com/watch?v=qbPf9VRP6eU)
-<p> Here is a [link](https://www.youtube.com/watch?v=qbPf9VRP6eU) to a presentation explaining what a geo-locator app does and why it can be useful. Here are the steps to create your own geo-locator website application:</p>
+[![Image of 1](http://suffolklitlab.org/resource-map/HowTo%20Images/Video.png)](https://www.youtube.com/watch?v=qbPf9VRP6eU)
+Here is a [link](https://www.youtube.com/watch?v=qbPf9VRP6eU) to a presentation explaining what a geo-locator app does and why it can be useful. Here are the steps to create your own geo-locator website application:
 **<p> 1. Head to https://github.com/ and create your own account. </p>**
 **<p> 2. Once you've created an account, go to https://github.com/SuffolkLITLab/resource-map-how-to. </p>**
 **<p> 3. Click on the index.html file. </p>**
