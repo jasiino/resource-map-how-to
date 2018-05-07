@@ -133,13 +133,13 @@
 <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key= "></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_jyq9yHkMN2jMuV_cVqrR6wKGdWBhIt0"></script>
 
 <script type="text/javascript">
 
-	var app_id = "app ";
-	var app_key = "key ";
-	var cat_names = [["Outreach","Community Outreach"],["Counseling","Counseling"],["Training","Job Opportunities/Training"],["Health","Health Services"],["Risk","High Risk"],["Multi","Multi-Service"]];
+	var app_id = "appy5ZQO8lcSOjH0J";
+	var app_key = "keyHtA4JdvolTnmFV";
+	var cat_names = [["Alternative","Alternative Education"],["Outreach","Community Outreach"],["Service","Multi-Service"]];
 
 	var categories = "";
 	var ages = "";
@@ -205,7 +205,7 @@
 			alert('You must choose a location.');
 		} else if ( isNaN(Number($('#age').val())) ) {
 			alert('You must enter a numeric age (in years) or leave blank.')
-		} else if ($('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked") || $('#checkbox-v- ').is(":checked")) {
+		} else if ($('#checkbox-v-Alternative').is(":checked") || $('#checkbox-v-Outreach').is(":checked") || $('#checkbox-v-Service').is(":checked")) {
 			next_page_1()
     } else {
 			alert('You must choose at least one type of service.')
