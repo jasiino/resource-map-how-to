@@ -59,7 +59,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 
 ![Image of 142](http://suffolklitlab.org/resource-map-how-to/README%20images/142.png)
 
-**<p> 24. Put the tagged names into line 208. </p>**
+**<p> 24. Put the tagged names into line 208 (i.e. ('#checkbox-v-Alternative') ). </p>**
 
 ![Image of 208](http://suffolklitlab.org/resource-map-how-to/README%20images/208.png)
 **<p> 24. Go back to your Airtable. Find your API key. You can follow the steps below or go to this [website](https://medium.com/row-and-table/an-basic-intro-to-the-airtable-api-9ef978bb0729). </p>** 
