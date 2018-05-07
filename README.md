@@ -7,7 +7,7 @@ A geo-locator app can be used to search for and filter through programs and serv
 **<p> 3. Click on the index.html file. </p>**
 **<p> 4. Click the pen button to edit the code. </p>**
  
-![Image of pen](http://suffolklitlab.org/resource-map/HowTo%20Images/pen.png)
+![Image of pen](http://suffolklitlab.org/resource-map-how-to/README%20images/pen.png)
 **<p> 5. Copy the all the code from index.html. This is blank template where you will insert all the data needed. </p>**
 **<p> 6. Click fork on the top right hand corner. </p>**
  
